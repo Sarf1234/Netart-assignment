@@ -143,16 +143,20 @@ span{
         align-items: center;
         width: 55%;
         height: 20vh;
-        margin: 0 auto 30px auto;
+        margin: 0 auto;
     }
     .right_container {
         margin-top: 55px;
-        height: 100vh;
+        height: 70vh;
     }
     .container {
-        height: 100vh;
-        margin-top: -31px;
+        height: 70vh;
+        margin-top: 10px;
         margin-bottom: 12px;
+    }
+    .left_container{
+        width: 30%;
+        height: 70vh;
     }
     .img3 {
         width: 88%;
